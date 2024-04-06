@@ -1,2 +1,3 @@
 const w = 'whatsapp'
-const z = 'zapzap fi'
+const z = 'zapzap fisdasdsadasd'
+console.log('coisa teste')
